@@ -1,24 +1,6 @@
-airflow-webserver
-    8282
-
-spark-iceberg
-    8888
-    8080
-    10000
-    10001
-
-rest
-    8181
-
-minio
-    9001
-    9000
-
-trino
-    8383
-
-hive-metastore
-    9083
-
-superset
-    8088
+airflow-webserver: 8282
+spark-iceberg: 8080
+notebooks: 8888
+minio: 9001 9000
+trino: 8383
+superset: 8088
